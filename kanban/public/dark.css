@@ -1,0 +1,16 @@
+body {
+  background-color: #2F3136 !important;
+  color: aliceblue !important;
+
+}
+.dark {
+  color: aliceblue!important;
+  background-color: #2F3136 !important;
+}
+#my-modal___BV_modal_content_ {
+  background-color: #2F3136 !important;
+  
+}
+.main-colomn {
+  border: solid white 2px!important;
+}
